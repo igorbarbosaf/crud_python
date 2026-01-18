@@ -39,7 +39,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Flamirgo55-',
+    password='********',
     database='bdyoutube'
 )
 
